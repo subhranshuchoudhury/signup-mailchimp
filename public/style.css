@@ -1,0 +1,22 @@
+body{
+	background-color: #efef;
+}
+
+form{
+	text-align: center;
+
+}
+
+label{
+	font-weight: bold;
+}
+
+input{
+	margin: 10px;
+	text-align: left;
+}
+
+button{
+	padding: 10px;
+	
+}
